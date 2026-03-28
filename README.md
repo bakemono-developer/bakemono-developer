@@ -1,4 +1,8 @@
-## Hi there 👋
+# 😄 Olá, eu sou o Matheus Sousa da Cruz!
+- 🎓 Estudante de Desenvolvimento de Sistemas
+- 💻 Focado em Python, HTML e CSS
+- 🚀 Preparando-se para o mercado de tecnologia
+- 📫 Contato: sousadacruz2014@hotmail.com
 
 <!--
 **bakemono-developer/bakemono-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
