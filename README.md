@@ -14,6 +14,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 
+- ## 🤝 Onde me encontrar
+[![Steam]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white](https://img.shields.io/steam/release-date/bakemonozz
+))](https://linkedin.com/in/SEU-LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:isabelasouzag35@gmail.com)
+
 
 
 <!--
